@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2ac22903-d5db-47b2-b379-a39a9f43e72d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/new.html.erb" afterPath="$PROJECT_DIR$/app/views/users/new.html.erb" />
     </list>
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -100,7 +99,7 @@
       <file leaf-file-name="new.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/users/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="22" selection-start="41" selection-end="41" vertical-scroll-proportion="0.022566997">
+            <state line="1" column="33" selection-start="52" selection-end="52" vertical-scroll-proportion="0.022566997">
               <folding />
             </state>
           </provider>
@@ -635,7 +634,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/users/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="22" selection-start="41" selection-end="41" vertical-scroll-proportion="0.022566997">
+        <state line="1" column="33" selection-start="52" selection-end="52" vertical-scroll-proportion="0.022566997">
           <folding />
         </state>
       </provider>
