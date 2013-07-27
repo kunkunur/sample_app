@@ -3,8 +3,8 @@ source 'http://rubygems.org'
 gem 'rails'
 
 platform :jruby do
-  gem 'activerecord-jdbcpostgresql-adapter'
-  gem 'activerecord-netezza-adapter', :git => 'https://github.com/robbkidd/activerecord-netezza-adapter'
+  gem "jdbc-sqlite3", "~> 3.7.2.1"
+  gem 'activerecord-jdbcsqlite3-adapter'
   gem 'therubyrhino'
   gem 'jruby-openssl'
   gem 'trinidad', :require => false
