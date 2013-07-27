@@ -1,7 +1,14 @@
 source 'http://rubygems.org'
 
 gem 'rails'
-gem 'pg'
+
+platform :jruby do
+  gem 'activerecord-jdbcpostgresql-adapter'
+  gem 'activerecord-netezza-adapter', :git => 'https://github.com/robbkidd/activerecord-netezza-adapter'
+  gem 'therubyrhino'
+  gem 'jruby-openssl'
+  gem 'trinidad', :require => false
+end
 
 
 group :development do
